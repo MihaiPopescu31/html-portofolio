@@ -1,2 +1,2 @@
 # html-portofolio
-html portofolio using only simpel elements
+html portofolio using only simple elements
